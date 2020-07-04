@@ -72,3 +72,5 @@
 
 
 ## [refrence](https://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html)
+
+https://www.runoob.com/design-pattern/state-pattern.html
